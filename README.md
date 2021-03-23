@@ -1,4 +1,4 @@
-[![Release](https://jitpack.io/v/com.github.sevar83/android-spatialite.svg)](https://jitpack.io/v/com.github.sevar83/android-spatialite.svg)
+[![Release](https://jitpack.io/v/org.bitbucket.buildware/android-spatialite.svg)](https://jitpack.io/#org.bitbucket.buildware/android-spatialite)
 
 # android-spatialite
 
